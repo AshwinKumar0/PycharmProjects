@@ -1,0 +1,1338 @@
+{
+    "search_metadata": {
+        "id": "69fed7a5d08cfe4d6486a99a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/LxRuTba4DktnSdFqs0eYrA/69fed7a5d08cfe4d6486a99a.json",
+        "created_at": "2026-05-09 06:43:49 UTC",
+        "processed_at": "2026-05-09 06:43:49 UTC",
+        "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=in&curr=INR&tfs=CBwQAhoeEgoyMDI2LTA1LTEwagcIARIDTEhScgcIARIDRFBTGh4SCjIwMjYtMDYtMDhqBwgBEgNEUFNyBwgBEgNMSFJAAUgBcAGYAQE&tfu=EgIIAQ",
+        "raw_html_file": "https://serpapi.com/searches/LxRuTba4DktnSdFqs0eYrA/69fed7a5d08cfe4d6486a99a.html",
+        "prettify_html_file": "https://serpapi.com/searches/LxRuTba4DktnSdFqs0eYrA/69fed7a5d08cfe4d6486a99a.prettify",
+        "total_time_taken": 2.05
+    },
+    "search_parameters": {
+        "engine": "google_flights",
+        "hl": "en",
+        "gl": "in",
+        "type": "1",
+        "departure_id": "LHR",
+        "arrival_id": "DPS",
+        "outbound_date": "2026-05-10",
+        "return_date": "2026-06-08",
+        "adults": 1,
+        "currency": "INR",
+        "deep_search": true
+    },
+    "best_flights": [
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 12:20"
+                    },
+                    "arrival_airport": {
+                        "name": "Hong Kong International Airport",
+                        "id": "HKG",
+                        "time": "2026-05-11 07:50"
+                    },
+                    "duration": 750,
+                    "airplane": "Boeing 777",
+                    "airline": "Cathay Pacific",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "CX 252",
+                    "legroom": "32 in",
+                    "extensions": [
+                        "Above average legroom (32 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 675 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Hong Kong International Airport",
+                        "id": "HKG",
+                        "time": "2026-05-11 10:00"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 15:00"
+                    },
+                    "duration": 300,
+                    "airplane": "Boeing 777",
+                    "airline": "Cathay Pacific",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "CX 785",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 217 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 130,
+                    "name": "Hong Kong International Airport",
+                    "id": "HKG"
+                }
+            ],
+            "total_duration": 1180,
+            "carbon_emissions": {
+                "this_flight": 894000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 8
+            },
+            "price": 115955,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3REV0RJMU1ueERXRGM0TlJvTENQT0pCeEFBR2dOSlRsSTRISEN4dndjPSIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIkhLRyIsbnVsbCwiQ1giLCIyNTIiXSxbIkhLRyIsIjIwMjYtMDUtMTEiLCJEUFMiLG51bGwsIkNYIiwiNzg1Il1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 08:05"
+                    },
+                    "arrival_airport": {
+                        "name": "Hamad International Airport",
+                        "id": "DOH",
+                        "time": "2026-05-10 17:25"
+                    },
+                    "duration": 440,
+                    "airplane": "Airbus A350",
+                    "airline": "Qatar Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "QR 6",
+                    "ticket_also_sold_by": [
+                        "British Airways"
+                    ],
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Free Wi-Fi",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 330 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Hamad International Airport",
+                        "id": "DOH",
+                        "time": "2026-05-10 20:30"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 11:15"
+                    },
+                    "duration": 585,
+                    "airplane": "Boeing 787",
+                    "airline": "Qatar Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "QR 960",
+                    "ticket_also_sold_by": [
+                        "British Airways"
+                    ],
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 492 kg"
+                    ],
+                    "overnight": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 185,
+                    "name": "Hamad International Airport",
+                    "id": "DOH"
+                }
+            ],
+            "total_duration": 1210,
+            "carbon_emissions": {
+                "this_flight": 824000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 0
+            },
+            "price": 127516,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ2xSVWpaOFVWSTVOakFhQ3dpYzVBY1FBQm9EU1U1U09CeHdoSjhJIixbWyJMSFIiLCIyMDI2LTA1LTEwIiwiRE9IIixudWxsLCJRUiIsIjYiXSxbIkRPSCIsIjIwMjYtMDUtMTAiLCJEUFMiLG51bGwsIlFSIiwiOTYwIl1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 18:30"
+                    },
+                    "arrival_airport": {
+                        "name": "Istanbul Airport",
+                        "id": "IST",
+                        "time": "2026-05-11 00:15"
+                    },
+                    "duration": 225,
+                    "airplane": "Boeing 777",
+                    "airline": "Turkish Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+                    "travel_class": "Economy",
+                    "flight_number": "TK 1972",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 208 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Istanbul Airport",
+                        "id": "IST",
+                        "time": "2026-05-11 02:10"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 19:55"
+                    },
+                    "duration": 765,
+                    "airplane": "Boeing 787",
+                    "airline": "Turkish Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+                    "travel_class": "Economy",
+                    "flight_number": "TK 310",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 515 kg"
+                    ],
+                    "overnight": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 115,
+                    "name": "Istanbul Airport",
+                    "id": "IST",
+                    "overnight": true
+                }
+            ],
+            "total_duration": 1105,
+            "carbon_emissions": {
+                "this_flight": 724000,
+                "typical_for_this_route": 825000,
+                "difference_percent": -12
+            },
+            "price": 134777,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3hVU3pFNU56SjhWRXN6TVRBYUN3ajVuQWdRQUJvRFNVNVNPQnh3anRzSSIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIklTVCIsbnVsbCwiVEsiLCIxOTcyIl0sWyJJU1QiLCIyMDI2LTA1LTExIiwiRFBTIixudWxsLCJUSyIsIjMxMCJdXV0="
+        }
+    ],
+    "other_flights": [
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 22:15"
+                    },
+                    "arrival_airport": {
+                        "name": "Hong Kong International Airport",
+                        "id": "HKG",
+                        "time": "2026-05-11 18:00"
+                    },
+                    "duration": 765,
+                    "airplane": "Boeing 777",
+                    "airline": "Cathay Pacific",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "CX 254",
+                    "legroom": "32 in",
+                    "extensions": [
+                        "Above average legroom (32 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 675 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Hong Kong International Airport",
+                        "id": "HKG",
+                        "time": "2026-05-12 10:00"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-12 15:00"
+                    },
+                    "duration": 300,
+                    "airplane": "Boeing 777",
+                    "airline": "Cathay Pacific",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "CX 785",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 217 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 960,
+                    "name": "Hong Kong International Airport",
+                    "id": "HKG",
+                    "overnight": true
+                }
+            ],
+            "total_duration": 2025,
+            "carbon_emissions": {
+                "this_flight": 894000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 8
+            },
+            "price": 115955,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3REV0RJMU5IeERXRGM0TlJvTENQT0pCeEFBR2dOSlRsSTRISEN4dndjPSIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIkhLRyIsbnVsbCwiQ1giLCIyNTQiXSxbIkhLRyIsIjIwMjYtMDUtMTIiLCJEUFMiLG51bGwsIkNYIiwiNzg1Il1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 09:20"
+                    },
+                    "arrival_airport": {
+                        "name": "Zurich Airport",
+                        "id": "ZRH",
+                        "time": "2026-05-10 12:15"
+                    },
+                    "duration": 115,
+                    "airplane": "Airbus A319",
+                    "airline": "British Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+                    "travel_class": "Economy",
+                    "flight_number": "BA 732",
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "In-seat USB outlet",
+                        "Carbon emissions estimate: 98 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Zurich Airport",
+                        "id": "ZRH",
+                        "time": "2026-05-10 13:30"
+                    },
+                    "arrival_airport": {
+                        "name": "Hong Kong International Airport",
+                        "id": "HKG",
+                        "time": "2026-05-11 06:55"
+                    },
+                    "duration": 685,
+                    "airplane": "Airbus A350",
+                    "airline": "Cathay Pacific",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "CX 382",
+                    "legroom": "32 in",
+                    "extensions": [
+                        "Above average legroom (32 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 603 kg"
+                    ],
+                    "overnight": true,
+                    "often_delayed_by_over_30_min": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Hong Kong International Airport",
+                        "id": "HKG",
+                        "time": "2026-05-11 10:00"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 15:00"
+                    },
+                    "duration": 300,
+                    "airplane": "Boeing 777",
+                    "airline": "Cathay Pacific",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+                    "travel_class": "Economy",
+                    "flight_number": "CX 785",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 217 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 75,
+                    "name": "Zurich Airport",
+                    "id": "ZRH"
+                },
+                {
+                    "duration": 185,
+                    "name": "Hong Kong International Airport",
+                    "id": "HKG"
+                }
+            ],
+            "total_duration": 1360,
+            "carbon_emissions": {
+                "this_flight": 920000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 12
+            },
+            "price": 122052,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFaEZDUVRjek1ueERXRE00TW54RFdEYzROUm9MQ01TNUJ4QUFHZ05KVGxJNEhIRHA4UWM9IixbWyJMSFIiLCIyMDI2LTA1LTEwIiwiWlJIIixudWxsLCJCQSIsIjczMiJdLFsiWlJIIiwiMjAyNi0wNS0xMCIsIkhLRyIsbnVsbCwiQ1giLCIzODIiXSxbIkhLRyIsIjIwMjYtMDUtMTEiLCJEUFMiLG51bGwsIkNYIiwiNzg1Il1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 15:35"
+                    },
+                    "arrival_airport": {
+                        "name": "Hamad International Airport",
+                        "id": "DOH",
+                        "time": "2026-05-11 00:30"
+                    },
+                    "duration": 415,
+                    "airplane": "Airbus A350",
+                    "airline": "Qatar Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "QR 110",
+                    "ticket_also_sold_by": [
+                        "British Airways"
+                    ],
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Free Wi-Fi",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 330 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Hamad International Airport",
+                        "id": "DOH",
+                        "time": "2026-05-11 02:10"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 16:55"
+                    },
+                    "duration": 585,
+                    "airplane": "Boeing 787",
+                    "airline": "Qatar Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "QR 962",
+                    "ticket_also_sold_by": [
+                        "British Airways"
+                    ],
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 492 kg"
+                    ],
+                    "overnight": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 100,
+                    "name": "Hamad International Airport",
+                    "id": "DOH",
+                    "overnight": true
+                }
+            ],
+            "total_duration": 1100,
+            "carbon_emissions": {
+                "this_flight": 824000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 0
+            },
+            "price": 126332,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3RSVWpFeE1IeFJVamsyTWhvTENQemFCeEFBR2dOSlRsSTRISENlbFFnPSIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIkRPSCIsbnVsbCwiUVIiLCIxMTAiXSxbIkRPSCIsIjIwMjYtMDUtMTEiLCJEUFMiLG51bGwsIlFSIiwiOTYyIl1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 21:55"
+                    },
+                    "arrival_airport": {
+                        "name": "Hamad International Airport",
+                        "id": "DOH",
+                        "time": "2026-05-11 06:50"
+                    },
+                    "duration": 415,
+                    "airplane": "Airbus A350",
+                    "airline": "Qatar Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "QR 16",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Free Wi-Fi",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 351 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Hamad International Airport",
+                        "id": "DOH",
+                        "time": "2026-05-11 20:30"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-12 11:15"
+                    },
+                    "duration": 585,
+                    "airplane": "Boeing 787",
+                    "airline": "Qatar Airways",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "travel_class": "Economy",
+                    "flight_number": "QR 960",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 492 kg"
+                    ],
+                    "overnight": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 820,
+                    "name": "Hamad International Airport",
+                    "id": "DOH"
+                }
+            ],
+            "total_duration": 1820,
+            "carbon_emissions": {
+                "this_flight": 845000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 2
+            },
+            "price": 126576,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3BSVWpFMmZGRlNPVFl3R2dzSThOd0hFQUFhQTBsT1VqZ2NjS0dYQ0E9PSIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIkRPSCIsbnVsbCwiUVIiLCIxNiJdLFsiRE9IIiwiMjAyNi0wNS0xMSIsIkRQUyIsbnVsbCwiUVIiLCI5NjAiXV1d"
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 08:40"
+                    },
+                    "arrival_airport": {
+                        "name": "Amsterdam Airport Schiphol",
+                        "id": "AMS",
+                        "time": "2026-05-10 11:00"
+                    },
+                    "duration": 80,
+                    "airplane": "Airbus A321neo",
+                    "airline": "KLM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "travel_class": "Economy",
+                    "flight_number": "KL 1002",
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "Free Wi-Fi",
+                        "In-seat USB outlet",
+                        "Carbon emissions estimate: 39 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Amsterdam Airport Schiphol",
+                        "id": "AMS",
+                        "time": "2026-05-10 21:00"
+                    },
+                    "arrival_airport": {
+                        "name": "Singapore Changi Airport",
+                        "id": "SIN",
+                        "time": "2026-05-11 15:40"
+                    },
+                    "duration": 760,
+                    "airplane": "Boeing 777",
+                    "airline": "KLM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "travel_class": "Economy",
+                    "flight_number": "KL 835",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 656 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Singapore Changi Airport",
+                        "id": "SIN",
+                        "time": "2026-05-11 17:00"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 19:35"
+                    },
+                    "duration": 155,
+                    "airplane": "Boeing 777",
+                    "airline": "KLM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "travel_class": "Economy",
+                    "flight_number": "KL 835",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 144 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 600,
+                    "name": "Amsterdam Airport Schiphol",
+                    "id": "AMS"
+                },
+                {
+                    "duration": 80,
+                    "name": "Singapore Changi Airport",
+                    "id": "SIN"
+                }
+            ],
+            "total_duration": 1675,
+            "carbon_emissions": {
+                "this_flight": 841000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 2
+            },
+            "price": 128167,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFaEpMVERFd01ESjhTMHc0TXpWOFMwdzRNelVhQ3dpbjZRY1FBQm9EU1U1U09CeHd0YVFJIixbWyJMSFIiLCIyMDI2LTA1LTEwIiwiQU1TIixudWxsLCJLTCIsIjEwMDIiXSxbIkFNUyIsIjIwMjYtMDUtMTAiLCJTSU4iLG51bGwsIktMIiwiODM1Il0sWyJTSU4iLCIyMDI2LTA1LTExIiwiRFBTIixudWxsLCJLTCIsIjgzNSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 17:10"
+                    },
+                    "arrival_airport": {
+                        "name": "Amsterdam Airport Schiphol",
+                        "id": "AMS",
+                        "time": "2026-05-10 19:30"
+                    },
+                    "duration": 80,
+                    "airplane": "Embraer 195 E2",
+                    "airline": "KLM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "travel_class": "Economy",
+                    "flight_number": "KL 1012",
+                    "legroom": "29 in",
+                    "extensions": [
+                        "Below average legroom (29 in)",
+                        "In-seat USB outlet",
+                        "Carbon emissions estimate: 52 kg"
+                    ],
+                    "plane_and_crew_by": "KLM Cityhopper"
+                },
+                {
+                    "departure_airport": {
+                        "name": "Amsterdam Airport Schiphol",
+                        "id": "AMS",
+                        "time": "2026-05-10 21:00"
+                    },
+                    "arrival_airport": {
+                        "name": "Singapore Changi Airport",
+                        "id": "SIN",
+                        "time": "2026-05-11 15:40"
+                    },
+                    "duration": 760,
+                    "airplane": "Boeing 777",
+                    "airline": "KLM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "travel_class": "Economy",
+                    "flight_number": "KL 835",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 656 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Singapore Changi Airport",
+                        "id": "SIN",
+                        "time": "2026-05-11 17:00"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 19:35"
+                    },
+                    "duration": 155,
+                    "airplane": "Boeing 777",
+                    "airline": "KLM",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "travel_class": "Economy",
+                    "flight_number": "KL 835",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 144 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 90,
+                    "name": "Amsterdam Airport Schiphol",
+                    "id": "AMS"
+                },
+                {
+                    "duration": 80,
+                    "name": "Singapore Changi Airport",
+                    "id": "SIN"
+                }
+            ],
+            "total_duration": 1165,
+            "carbon_emissions": {
+                "this_flight": 854000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 4
+            },
+            "price": 137308,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFaEpMVERFd01USjhTMHc0TXpWOFMwdzRNelVhQ3dqY3NBZ1FBQm9EU1U1U09CeHdodkFJIixbWyJMSFIiLCIyMDI2LTA1LTEwIiwiQU1TIixudWxsLCJLTCIsIjEwMTIiXSxbIkFNUyIsIjIwMjYtMDUtMTAiLCJTSU4iLG51bGwsIktMIiwiODM1Il0sWyJTSU4iLCIyMDI2LTA1LTExIiwiRFBTIixudWxsLCJLTCIsIjgzNSJdXV0="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 18:30"
+                    },
+                    "arrival_airport": {
+                        "name": "Istanbul Airport",
+                        "id": "IST",
+                        "time": "2026-05-11 00:15"
+                    },
+                    "duration": 225,
+                    "airplane": "Boeing 777",
+                    "airline": "Turkish Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+                    "travel_class": "Economy",
+                    "flight_number": "TK 1972",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 208 kg"
+                    ]
+                },
+                {
+                    "departure_airport": {
+                        "name": "Istanbul Airport",
+                        "id": "IST",
+                        "time": "2026-05-11 01:20"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 19:05"
+                    },
+                    "duration": 765,
+                    "airplane": "Airbus A350",
+                    "airline": "Turkish Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+                    "travel_class": "Economy",
+                    "flight_number": "TK 66",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Wi-Fi for a fee",
+                        "In-seat USB outlet",
+                        "On-demand video",
+                        "Carbon emissions estimate: 555 kg"
+                    ],
+                    "overnight": true
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 65,
+                    "name": "Istanbul Airport",
+                    "id": "IST"
+                }
+            ],
+            "total_duration": 1055,
+            "carbon_emissions": {
+                "this_flight": 765000,
+                "typical_for_this_route": 825000,
+                "difference_percent": -7
+            },
+            "price": 139926,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3RVU3pFNU56SjhWRXMyTmhvTENKYkZDQkFBR2dOSlRsSTRISERiaFFrPSIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIklTVCIsbnVsbCwiVEsiLCIxOTcyIl0sWyJJU1QiLCIyMDI2LTA1LTExIiwiRFBTIixudWxsLCJUSyIsIjY2Il1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 11:00"
+                    },
+                    "arrival_airport": {
+                        "name": "Kuala Lumpur International Airport",
+                        "id": "KUL",
+                        "time": "2026-05-11 07:15"
+                    },
+                    "duration": 795,
+                    "airplane": "Airbus A350",
+                    "airline": "Malaysia Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/MH.png",
+                    "travel_class": "Economy",
+                    "flight_number": "MH 3",
+                    "legroom": "31 in",
+                    "extensions": [
+                        "Average legroom (31 in)",
+                        "Free Wi-Fi",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 591 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Kuala Lumpur International Airport",
+                        "id": "KUL",
+                        "time": "2026-05-11 09:00"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 12:05"
+                    },
+                    "duration": 185,
+                    "airplane": "Airbus A330",
+                    "airline": "Malaysia Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/MH.png",
+                    "travel_class": "Economy",
+                    "flight_number": "MH 715",
+                    "legroom": "32 in",
+                    "extensions": [
+                        "Above average legroom (32 in)",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 151 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 105,
+                    "name": "Kuala Lumpur International Airport",
+                    "id": "KUL"
+                }
+            ],
+            "total_duration": 1085,
+            "carbon_emissions": {
+                "this_flight": 743000,
+                "typical_for_this_route": 825000,
+                "difference_percent": -10
+            },
+            "price": 237511,
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/MH.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ2xOU0ROOFRVZzNNVFVhQ3dqSHZ3NFFBQm9EU1U1U09CeHdqYTBQIixbWyJMSFIiLCIyMDI2LTA1LTEwIiwiS1VMIixudWxsLCJNSCIsIjMiXSxbIktVTCIsIjIwMjYtMDUtMTEiLCJEUFMiLG51bGwsIk1IIiwiNzE1Il1dXQ=="
+        },
+        {
+            "flights": [
+                {
+                    "departure_airport": {
+                        "name": "Heathrow Airport",
+                        "id": "LHR",
+                        "time": "2026-05-10 11:20"
+                    },
+                    "arrival_airport": {
+                        "name": "Singapore Changi Airport",
+                        "id": "SIN",
+                        "time": "2026-05-11 07:30"
+                    },
+                    "duration": 790,
+                    "airplane": "Airbus A380",
+                    "airline": "Singapore Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+                    "travel_class": "Economy",
+                    "flight_number": "SQ 317",
+                    "legroom": "32 in",
+                    "extensions": [
+                        "Above average legroom (32 in)",
+                        "Free Wi-Fi",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 722 kg"
+                    ],
+                    "overnight": true
+                },
+                {
+                    "departure_airport": {
+                        "name": "Singapore Changi Airport",
+                        "id": "SIN",
+                        "time": "2026-05-11 08:20"
+                    },
+                    "arrival_airport": {
+                        "name": "I Gusti Ngurah Rai International Airport",
+                        "id": "DPS",
+                        "time": "2026-05-11 11:00"
+                    },
+                    "duration": 160,
+                    "airplane": "Boeing 787",
+                    "airline": "Singapore Airlines",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+                    "travel_class": "Economy",
+                    "flight_number": "SQ 936",
+                    "legroom": "32 in",
+                    "extensions": [
+                        "Above average legroom (32 in)",
+                        "Free Wi-Fi",
+                        "In-seat power & USB outlets",
+                        "On-demand video",
+                        "Carbon emissions estimate: 98 kg"
+                    ]
+                }
+            ],
+            "layovers": [
+                {
+                    "duration": 50,
+                    "name": "Singapore Changi Airport",
+                    "id": "SIN"
+                }
+            ],
+            "total_duration": 1000,
+            "carbon_emissions": {
+                "this_flight": 821000,
+                "typical_for_this_route": 825000,
+                "difference_percent": 0
+            },
+            "type": "Round trip",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+            "departure_token": "WyJDalJJUVUxdE5FZE9lbUpOTW05QlRFNWxPR2RDUnkwdExTMHRMUzB0TFc5NVkyZDZPVUZCUVVGQlIyNHRNVFpqUTBObGVFOUJFZ3RUVVRNeE4zeFRVVGt6TmpnYyIsW1siTEhSIiwiMjAyNi0wNS0xMCIsIlNJTiIsbnVsbCwiU1EiLCIzMTciXSxbIlNJTiIsIjIwMjYtMDUtMTEiLCJEUFMiLG51bGwsIlNRIiwiOTM2Il1dXQ=="
+        }
+    ],
+    "price_insights": {
+        "lowest_price": 115955,
+        "price_level": "high",
+        "typical_price_range": [
+            84000,
+            97000
+        ],
+        "price_history": [
+            [
+                1773014400,
+                75491
+            ],
+            [
+                1773100800,
+                77592
+            ],
+            [
+                1773187200,
+                76121
+            ],
+            [
+                1773273600,
+                76531
+            ],
+            [
+                1773360000,
+                80645
+            ],
+            [
+                1773446400,
+                80138
+            ],
+            [
+                1773532800,
+                80277
+            ],
+            [
+                1773619200,
+                76956
+            ],
+            [
+                1773705600,
+                65717
+            ],
+            [
+                1773792000,
+                79037
+            ],
+            [
+                1773878400,
+                77702
+            ],
+            [
+                1773964800,
+                81950
+            ],
+            [
+                1774051200,
+                82118
+            ],
+            [
+                1774137600,
+                78501
+            ],
+            [
+                1774224000,
+                78460
+            ],
+            [
+                1774310400,
+                82874
+            ],
+            [
+                1774396800,
+                83623
+            ],
+            [
+                1774483200,
+                83111
+            ],
+            [
+                1774569600,
+                83347
+            ],
+            [
+                1774656000,
+                83379
+            ],
+            [
+                1774742400,
+                83426
+            ],
+            [
+                1774825200,
+                83426
+            ],
+            [
+                1774911600,
+                83259
+            ],
+            [
+                1774998000,
+                82680
+            ],
+            [
+                1775084400,
+                82475
+            ],
+            [
+                1775170800,
+                85314
+            ],
+            [
+                1775257200,
+                85154
+            ],
+            [
+                1775343600,
+                84830
+            ],
+            [
+                1775430000,
+                85033
+            ],
+            [
+                1775516400,
+                84937
+            ],
+            [
+                1775602800,
+                85221
+            ],
+            [
+                1775689200,
+                86141
+            ],
+            [
+                1775775600,
+                85470
+            ],
+            [
+                1775862000,
+                82253
+            ],
+            [
+                1775948400,
+                86636
+            ],
+            [
+                1776034800,
+                86635
+            ],
+            [
+                1776121200,
+                87529
+            ],
+            [
+                1776207600,
+                84524
+            ],
+            [
+                1776294000,
+                83062
+            ],
+            [
+                1776380400,
+                84787
+            ],
+            [
+                1776466800,
+                84332
+            ],
+            [
+                1776553200,
+                84358
+            ],
+            [
+                1776639600,
+                80884
+            ],
+            [
+                1776726000,
+                90147
+            ],
+            [
+                1776812400,
+                91284
+            ],
+            [
+                1776898800,
+                91446
+            ],
+            [
+                1776985200,
+                81956
+            ],
+            [
+                1777071600,
+                82316
+            ],
+            [
+                1777158000,
+                86444
+            ],
+            [
+                1777244400,
+                82422
+            ],
+            [
+                1777330800,
+                88590
+            ],
+            [
+                1777417200,
+                91348
+            ],
+            [
+                1777503600,
+                95427
+            ],
+            [
+                1777590000,
+                96140
+            ],
+            [
+                1777676400,
+                96078
+            ],
+            [
+                1777762800,
+                96097
+            ],
+            [
+                1777849200,
+                96178
+            ],
+            [
+                1777935600,
+                95622
+            ],
+            [
+                1778022000,
+                95687
+            ],
+            [
+                1778108400,
+                95245
+            ],
+            [
+                1778194800,
+                102706
+            ],
+            [
+                1778281200,
+                115955
+            ]
+        ]
+    },
+    "airports": [
+        {
+            "departure": [
+                {
+                    "airport": {
+                        "id": "LHR",
+                        "name": "Heathrow Airport"
+                    },
+                    "city": "London",
+                    "country": "United Kingdom",
+                    "country_code": "GB",
+                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+                }
+            ],
+            "arrival": [
+                {
+                    "airport": {
+                        "id": "DPS",
+                        "name": "I Gusti Ngurah Rai International Airport"
+                    },
+                    "city": "Denpasar",
+                    "country": "Indonesia",
+                    "country_code": "ID",
+                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpjCo287YKiDxrbQlSm3Af70o71dUjCPZ6_dVDyf-1TqPjvjrZ37t33Q_7iDHhYS48wNu0LJdENRBRSg",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFsxUxjHvh4B-OC3MBZsppnugcvv5-mwb1QyUnDEw4ERAN8pQGYpPooKz04neOm3ivuxDBxp0nyrI4S_UEFevemYjK9tdUmJgtUDr1HgQ"
+                }
+            ]
+        },
+        {
+            "departure": [
+                {
+                    "airport": {
+                        "id": "DPS",
+                        "name": "I Gusti Ngurah Rai International Airport"
+                    },
+                    "city": "Denpasar",
+                    "country": "Indonesia",
+                    "country_code": "ID",
+                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpjCo287YKiDxrbQlSm3Af70o71dUjCPZ6_dVDyf-1TqPjvjrZ37t33Q_7iDHhYS48wNu0LJdENRBRSg",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFsxUxjHvh4B-OC3MBZsppnugcvv5-mwb1QyUnDEw4ERAN8pQGYpPooKz04neOm3ivuxDBxp0nyrI4S_UEFevemYjK9tdUmJgtUDr1HgQ"
+                }
+            ],
+            "arrival": [
+                {
+                    "airport": {
+                        "id": "LHR",
+                        "name": "Heathrow Airport"
+                    },
+                    "city": "London",
+                    "country": "United Kingdom",
+                    "country_code": "GB",
+                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+                }
+            ]
+        }
+    ]
+}
