@@ -47,8 +47,8 @@ def find_cheapest_flight(data, return_date):
             origin_airport = flight['flights'][0]['departure_airport']['id']
             destination_airport = flight['flights'][-1]['arrival_airport']['id']
             out_date = flight['flights'][0]['departure_airport']['time'].split(" ")[0]
+            nr_stops = len(flight["flights"]) - 1
             cheapest_flight = FlightData(lowest_price, origin_airport, destination_airport, out_date, return_date, nr_stops)
-            nr_stops =  len(first_flight["flights"]) - 1
     
     print(f"Lowest Price to {destination_airport} is INR {lowest_price}")
     return cheapest_flight
